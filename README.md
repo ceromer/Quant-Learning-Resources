@@ -11,3 +11,8 @@
 - https://quantdare.com/
 - https://www.quantstart.com/
 - https://papers.ssrn.com/
+
+# Podcasts
+- https://chatwithtraders.com/ep-142-bert-mouler/
+- https://chatwithtraders.com/ep-178-nick-radge/  Brilliant summary of how to build a strategy
+- https://chatwithtraders.com/ep-212-kristjan-kullamagi/
