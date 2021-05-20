@@ -17,8 +17,10 @@
 - https://chatwithtraders.com/ep-142-bert-mouler/ 'Nobody knows anything' and 'wish I could hire my dog' 
 - https://chatwithtraders.com/ep-178-nick-radge/  Brilliant summary of how to build a strategy
 - https://chatwithtraders.com/ep-212-kristjan-kullamagi/
-- https://m.youtube.com/watch?v=Do6PUjsaWDA  Ross Yarrow busts several common investment myths 
+- https://m.youtube.com/watch?v=Do6PUjsaWDA  Ross Yarrow busts several common investment myths
+- https://chatwithtraders.com/ep-196-ryan-trost/ Good introspection tips (towards the end)
 
 # Platforms
 - Backtrader https://www.backtrader.com/
 - Koyfin  https://app.koyfin.com/login
+- TradeStation https://www.tradestation-international.com/
