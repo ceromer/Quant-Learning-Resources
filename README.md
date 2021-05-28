@@ -21,6 +21,9 @@
 - https://m.youtube.com/watch?v=Do6PUjsaWDA  Ross Yarrow busts several common investment myths
 - https://chatwithtraders.com/ep-196-ryan-trost/ Good introspection tips (towards the end)
 
+# Books
+- Corporate Finance Fundamentals - Ross / Westerfield / Jordan
+
 # Platforms
 - Backtrader https://www.backtrader.com/
 - Koyfin  https://app.koyfin.com/login
