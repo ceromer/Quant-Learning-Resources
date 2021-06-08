@@ -25,6 +25,7 @@
 # Books
 - Corporate Finance Fundamentals - Ross / Westerfield / Jordan
 - Machine Learning for Asset Managers - Marcos Lopez de Prado
+- Getting Started in Technical Analysis - Jack Schwager
 
 # Platforms
 - Backtrader https://www.backtrader.com/
