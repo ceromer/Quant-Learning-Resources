@@ -17,8 +17,8 @@
 - https://chatwithtraders.com/ep-142-bert-mouler/ 'Nobody knows anything' and 'wish I could hire my dog' 
 - https://chatwithtraders.com/ep-004-nick-radge/ Great intro to a sucessful trader mindset
 - https://chatwithtraders.com/ep-009-peter-zhang/ Market mechanics (especially for intraday trading)
-- https://chatwithtraders.com/ep-178-nick-radge/  Brilliant summary of how to build a strategy
-- https://chatwithtraders.com/ep-212-kristjan-kullamagi/
+- https://chatwithtraders.com/ep-178-nick-radge/  Very well explained step-by-step summary of how to build a strategy
+- https://chatwithtraders.com/ep-212-kristjan-kullamagi/  Being profitably
 - https://m.youtube.com/watch?v=Do6PUjsaWDA  Ross Yarrow busts several common investment myths
 - https://chatwithtraders.com/ep-196-ryan-trost/ Good introspection tips (towards the end)
 
