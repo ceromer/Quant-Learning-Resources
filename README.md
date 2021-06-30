@@ -1,7 +1,7 @@
 ## Quant-Learning-Resources
 # Useful list of learning resources for Quantitative Finance
 
-# Recommended Courses
+# Recommended Courses (in recommended order)
 - Programming for Everybody (Getting Started with Python) - Free (search for PY4E) or paid with certificate (edX - MichiganX)
 - Udacity's ML for Trading (free)
 - Udemy's Algorithmic Trading with Python and ML
