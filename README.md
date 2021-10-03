@@ -32,3 +32,4 @@
 - Koyfin  https://app.koyfin.com/login
 - TradeStation https://www.tradestation-international.com/
 - IBKR Trader Workstation (TWS)
+- Amibroker https://www.amibroker.com/
